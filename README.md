@@ -3,7 +3,7 @@ Motivational Poster Generator
 
 I created this motivational poster generator on my first day at [Makers Academy](http://www.makersacademy.com/).
 
-![screenshot](gypsydave5.github.io/images/readme/motivational-poster.png)
+![screenshot](http://gypsydave5.github.io/images/readme/motivational-poster.png)
 
 ##Installation
 
